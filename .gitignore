@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+artifacts/
+.audit/
+paper/manuscript/.audit/
+w006_runs/
+w007_runs/
+*.h5
+*.zip
+paper/figures/
+paper/manuscript/figures/
+paper/manuscript/*.pdf
+paper/manuscript/*.docx

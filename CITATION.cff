@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this versioned reproducibility package when using its code or recorded results."
+title: "Avify Dose: modified Snyder phantom reproducibility package"
+type: software
+authors:
+  - family-names: Avila
+    given-names: Connor
+    affiliation: Avila Labs
+    orcid: "https://orcid.org/0009-0000-9957-9857"
+version: 1.0.0
+date-released: 2026-09-18
+repository-code: "https://github.com/AvilaLabs/avify-dose-paper"
+url: "https://github.com/AvilaLabs/avify-dose-paper/releases/tag/v1.0.0"

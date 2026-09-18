@@ -1,0 +1,16 @@
+{
+  "W006_PROTOCOL.md": "c9558f2896d3e1330cfc8130d0a0722e6c08bd63af5334832931c09c8dd9153d",
+  "W007_PROTOCOL.md": "6da55c434a0fb01a37ed04f5b45ba61708b1e03782ec9e578e7664dd9d5d744f",
+  "controls/w006_run.py": "d3ac76b4c94dc278b4ed23e1c278be297bb13937d4029e1cd2c9c42850c50f1f",
+  "controls/w007_run.py": "277cffdbc3368ec9757008b767081fa3f054e97006ebf8200076202793ca5baa",
+  "controls/w006_extract_reference.py": "3e3e74454e1e1c535488dfc116b537e94573e3c61d9fca80aa6a70c3f0f8fa2b",
+  "controls/check_w006.py": "08decf7730b8a2f54f51d3e71679ec9ee6bcade2999d9eedee1328d6770891a1",
+  "controls/check_w007.py": "680b48a5d044659033c3a8367ccd489691e23bc907140302b2760bc1cbbafc63",
+  "controls/w006_results.json": "7bd696a4381d3d9e38125fefce007dc52b279e3e62e32e5ac2f1a533122c7c81",
+  "controls/w007_results.json": "655f019dee0aa34c051c382f0e5435c1c9d49878be7def406f8eb68a88981469",
+  "controls/w006_reference.json": "91586006f737b68cfe29e76756b695766805873017d7d7bbfd67e0dc39a9218c",
+  "paper/make_paper_figures.py": "843e7134945af8e1114e8ff6c5e1bea323b5c8b85f909ef253d3efe7acefad97",
+  "paper/manuscript/manuscript.md": "45d36974656d4f827d1ccafe4ed172c24531d7e369e4a0fed9d1f9595018f256",
+  "paper/manuscript/audit_numbers.py": "b0fc29789992ecb67f935318f0337ba85b3264e82b31c2b35e2b9153185c883d",
+  "paper/manuscript/build_manuscript.py": "975144343a7f115d237f4ca05eb25c30789433f66a68268e137e7649648c4fe6"
+}
