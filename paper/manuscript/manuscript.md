@@ -101,7 +101,7 @@ During the preparation of this work the author used Claude (Anthropic) and Codex
 
 ## Data availability
 
-The pre-registered protocol, run harness, independent checker, raw tallies, results files and figure scripts are retained by Avila Labs and have not been publicly deposited. Enquiries concerning access to these materials should be directed to the corresponding author at research@avilalabs.org. The reference archive of Goorley et al. (2002) is the publisher's supplementary material, cited here by DOI and SHA-256 (511aa05c4253c77b2778a2bd7aa52334a1fd996cca3d08b7c1899f32db38fd62) and not redistributed.
+The reproducibility package is available at https://github.com/AvilaLabs/avify-dose-paper/releases/tag/v1.0.0. It includes recorded tally summaries, results, transport harnesses, independent numerical checkers, figure scripts and scientific protocols. The W006 protocol is a labelled public copy with internal patent-strategy discussion omitted; original and public file hashes and checker adaptations are documented in the repository. Full OpenMC statepoint files and transport nuclear-data libraries are not included. The release is publicly accessible with rights reserved; no DOI has been assigned. The reference archive of Goorley et al. (2002) is the publisher's supplementary material, cited here by DOI and SHA-256 (511aa05c4253c77b2778a2bd7aa52334a1fd996cca3d08b7c1899f32db38fd62) and not redistributed.
 
 ## Appendix A. Conditional component bounds and unresolved coverage
 
